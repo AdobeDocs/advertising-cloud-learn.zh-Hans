@@ -15,7 +15,7 @@ ht-degree: 30%
 
 # Advertising Cloud 教程
 
-欢迎访问[!DNL Advertising Cloud]Tutorials网站。 将这些教程与[文档](https://helpx.adobe.com/support/advertising-cloud.html)结合使用，将使您能够更好地了解如何使用Adobe Advertising Cloud以前所未有的速度洞察客户。
+欢迎使用 [!DNL Advertising Cloud] Tutorials网站。 将这些教程与 [文档](https://helpx.adobe.com/support/advertising-cloud.html) 将使您更好地了解如何使用Adobe Advertising Cloud，以前所未有的速度洞察客户。
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

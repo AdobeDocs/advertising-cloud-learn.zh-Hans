@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # 使用Advertising Cloud营销渠道(A4AdC)进行报告
 
-了解Advertising Cloud显示到达和点进登入数据如何与Adobe Analytics [!UICONTROL Marketing Channels]一起使用。
+了解Advertising Cloud显示到达和点进登入数据如何与Adobe Analytics配合使用 [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
