@@ -3,7 +3,7 @@ user-guide-title: Adobe Advertising Cloud 教程
 user-guide-description: Adobe Advertising Cloud 的视频和教程集合。
 breadcrumb-title: Advertising Cloud 教程
 solution: Advertising Cloud
-source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
+source-git-commit: 0821a090afa1799333ca6ef99438667dfdf4b0ee
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 18%
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 + [概述](overview.md)
 + DSP {#dsp}
-   + [Advertising Cloud DSP简介](/help/dsp/overview.md)
+   + [Advertising Cloud DSP简介](/help/dsp/intro.md)
    + [帐户结构和用户界面](/help/dsp/ui.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
