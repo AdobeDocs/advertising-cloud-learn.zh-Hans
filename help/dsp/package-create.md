@@ -1,9 +1,10 @@
 ---
 title: 如何为Advertising Cloud DSP创建资源包
 description: 了解如何创建资源包。
-source-git-commit: ef57232c541e5b0b385ed7c34d215c142858cde3
+exl-id: 4d4a6c11-6422-4a81-8755-703e98ac6faf
+source-git-commit: cdcc2c1354c3df97dfccb48817d89667ce6b7acb
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -12,4 +13,4 @@ ht-degree: 0%
 
 了解如何为Advertising Cloud DSP促销活动创建资源包。
 
->[!VIDEO](https://video.tv.adobe.com/v/339203)
+>[!VIDEO](https://video.tv.adobe.com/v/339257)
