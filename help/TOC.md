@@ -3,10 +3,10 @@ user-guide-title: Adobe Advertising Cloud 教程
 user-guide-description: Adobe Advertising Cloud 的视频和教程集合。
 breadcrumb-title: Advertising Cloud 教程
 solution: Advertising Cloud
-source-git-commit: 02b8109c14e3b42ab7c6149009e6408f8478e251
+source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 19%
 
 ---
 
@@ -20,16 +20,16 @@ ht-degree: 0%
    + [如何创建资源包](/help/dsp/package-create.md)
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
-+ 适用于Advertising Cloud的Analytics {#analytics}
-   + [A4AdC简介](/help/integrations/analytics/intro-a4adc.md)
++ [!DNL Analytics for Advertising Cloud] {#analytics}
+   + [简介 [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/intro-a4adc.md)
    + [创建Advertising Cloud网站登入报表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [为激活和报告创建Analytics区段](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [用于报告Analysis Workspace数据的Advertising Cloud简介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [创建 [!DNL Analytics] 用于激活和报告的区段](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [简介 [!DNL Analysis Workspace] (用于报告Advertising Cloud数据)](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [使用Advertising Cloud营销渠道进行报告](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [为Advertising Cloud激活和报告创建Analytics配置文件](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [创建 [!DNL Analytics] Advertising Cloud激活和报告的配置文件](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [使用Adobe Analytics创建启动前促销活动分析](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [使用Advertising Cloud创建Adobe Analytics功能板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [使用Advertising Cloud数据创建Analytics自定义量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [创建 [!DNL Analytics] 包含Advertising Cloud数据的自定义量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
