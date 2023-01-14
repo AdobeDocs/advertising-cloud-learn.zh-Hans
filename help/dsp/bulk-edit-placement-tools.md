@@ -1,15 +1,16 @@
 ---
-title: 如何使用批量编辑工具编辑版面Advertising Cloud DSP
+title: 如何使用批量编辑工具编辑版面以用于DSP
 description: 了解如何一次编辑多个版面的设置。
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 如何使用批量编辑工具编辑版面
 
-了解如何在Advertising Cloud DSP中一次编辑多个版面的设置。
+了解如何在DSP中一次编辑多个版面的设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339205)

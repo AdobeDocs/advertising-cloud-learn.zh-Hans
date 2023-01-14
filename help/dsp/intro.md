@@ -1,15 +1,16 @@
 ---
-title: Advertising Cloud DSP简介
-description: 了解Advertising Cloud DSP以及它如何为您的媒体活动带来好处。
-source-git-commit: 9094697600cd457b2a8d87c96e07a7de2140912a
+title: Adobe广告DSP简介
+description: 了解AdobeAdvertising DSP以及它如何为您的媒体促销活动带来好处。
+exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSP简介
+# Adobe广告DSP简介
 
-了解Advertising Cloud DSP，包括它如何融入Adobe Experience Cloud、它可以为广告商做什么，以及与Adobe Analytics和其他服务的集成如何为您的媒体促销活动带来好处。
+了解Advertising DSP，包括它如何融入Adobe Experience Cloud，它可以为广告商做什么，以及与Adobe Analytics和其他服务的集成如何使您的媒体促销活动受益。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339200)
