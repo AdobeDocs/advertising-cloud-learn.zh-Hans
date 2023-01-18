@@ -1,8 +1,7 @@
 ---
 title: Adobe广告DSP简介
 description: 了解AdobeAdvertising DSP以及它如何为您的媒体促销活动带来好处。
-exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

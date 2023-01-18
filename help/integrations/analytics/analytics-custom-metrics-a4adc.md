@@ -1,10 +1,9 @@
 ---
 title: 创建 [!DNL Analytics] 包含Adobe广告数据的自定义量度
 description: 了解在Adobe Analytics中使用Adobe广告数据时要创建的有用自定义量度。
-exl-id: 56077529-443d-4285-9238-13b07b26ad08
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
